@@ -1,0 +1,23 @@
+.btn-group{
+    width: 100%;
+}
+
+.btn {
+    width: 50%;
+}
+
+a.nostyle {
+    cursor: pointer;
+    text-decoration: inherit;
+    color: inherit;
+}
+
+a.nostyle :link {
+    text-decoration: inherit;
+    color: inherit; 
+}
+
+a.nostyle :visited {
+    text-decoration: inherit;
+    color: inherit; 
+}
